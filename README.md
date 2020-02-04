@@ -39,8 +39,8 @@ We'll be using the following APIs in this workshop:
 - [Simple Counter (boilerplate)](https://codesandbox.io/s/github/stevekinney/simple-counter-react-state/blob/master?module=%2Fsrc%2FCounter.js)
 - [Simple Counter (adds increment, decrement, and reset)](https://codesandbox.io/s/simple-counter-adds-increment-decrement-reset-rlrc3?module=%2Fsrc%2FCounter.js)
 - [Simple Counter (setState function and callback)](https://codesandbox.io/s/simple-counter-setstate-function-and-callback-irm1x?module=%2Fsrc%2FCounter.js)
-- [Simple Counter (adds localStorage support, exercise starter)](https://codesandbox.io/s/simple-counter-adds-localstorage-support-exercise-starter-wxubb?module=%2Fsrc%2FCounter.js)
-- [Simple Counter (sinking document.title solution)](https://codesandbox.io/s/simple-counter-syncing-documenttitle-solution-in6r9?module=%2Fsrc%2FCounter.js)
+- [Simple Counter (adds localStorage support, exercise starter for syncing document.title)](https://codesandbox.io/s/simple-counter-adds-localstorage-support-exercise-starter-for-syncing-documenttitle-wxubb?module=%2Fsrc%2FCounter.js)
+- [Simple Counter (syncing document.title solution)](https://codesandbox.io/s/simple-counter-syncing-documenttitle-solution-in6r9?module=%2Fsrc%2FCounter.js)
 
 ### Simple Counter: Hooks State
 
