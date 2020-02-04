@@ -34,13 +34,16 @@ We'll be using the following APIs in this workshop:
 
 ## Code Sandbox Example Implementations
 
-These are just for reference.
+### Simple Counter: Class-Based State
 
 - [Simple Counter (boilerplate)](https://codesandbox.io/s/github/stevekinney/simple-counter-react-state/blob/master?module=%2Fsrc%2FCounter.js)
 - [Simple Counter (adds increment, decrement, and reset)](https://codesandbox.io/s/simple-counter-adds-increment-decrement-reset-rlrc3?module=%2Fsrc%2FCounter.js)
 - [Simple Counter (setState function and callback)](https://codesandbox.io/s/simple-counter-setstate-function-and-callback-irm1x?module=%2Fsrc%2FCounter.js)
 - [Simple Counter (adds localStorage support, exercise starter)](https://codesandbox.io/s/simple-counter-adds-localstorage-support-exercise-starter-wxubb?module=%2Fsrc%2FCounter.js)
 - [Simple Counter (sinking document.title solution)](https://codesandbox.io/s/simple-counter-syncing-documenttitle-solution-in6r9?module=%2Fsrc%2FCounter.js)
+
+### Simple Counter: Hooks State
+
 - [Simple Counter (refactor to use hooks)](https://codesandbox.io/s/simple-counter-refactored-to-use-hooks-ndwcr?module=%2Fsrc%2FCounter.js)
 - [Simple Countner (set value with a function)](https://codesandbox.io/s/simple-counter-set-value-with-a-function-gxshy?module=%2Fsrc%2FCounter.js)
 - [Simple Countner (update document.title with useEffect)](https://codesandbox.io/s/simple-counter-update-documenttitle-with-useeffect-hjedr?module=%2Fsrc%2FCounter.js)
@@ -48,6 +51,8 @@ These are just for reference.
 - [Simple Counter (useEffect local storage solution)](https://codesandbox.io/s/simple-counter-useeffect-local-storage-solution-m854x?module=%2Fsrc%2FCounter.js)
 - [Simple Counter (useLocalStorage custom hook)](https://codesandbox.io/s/simple-counter-uselocalstorage-custom-hook-hxvnm?module=%2Fsrc%2FCounter.js)
 - [Simple Counter (useRef)](https://codesandbox.io/s/simple-counter-useref-x7x8p?module=%2Fsrc%2FCounter.js)
+
+### Other Projects
 
 - [Grudge List](https://codesandbox.io/s/github/stevekinney/grudges-react-state)
 - [Star Wars Characters](https://codesandbox.io/s/github/stevekinney/star-wars-characters-react-state)
