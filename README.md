@@ -29,7 +29,7 @@ Make sure to run `npm install` in each repository.
 
 We'll be using the following APIs in this workshop:
 
-- [Star Wars Characters](https://star-was-character-search.glitch.me/) ([Source](https://glitch.com/~star-was-character-search))
+- [Star Wars Characters](https://star-wars-character-search.glitch.me/) ([Source](https://glitch.com/~star-wars-character-search))
 - [Tweet Stream](https://tweet-stream.glitch.me/)
 
 ## Code Sandbox Example Implementations
